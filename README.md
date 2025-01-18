@@ -2,7 +2,7 @@
   <br />
   <br />
 
-  <h2 align="center">Woodex - Furniture eCommerce Website</h2>
+  <h2 align="center">HMF - Furniture eCommerce Website</h2>
 
 </div>
 
@@ -10,4 +10,4 @@
 
 ### Demo Screeshots
 
-![Woodex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Hmf Desktop Demo](./readme-images/desktop.png "Desktop Demo")
